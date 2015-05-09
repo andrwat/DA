@@ -1,0 +1,10 @@
+;vxmin;vxmax;vxavg;vxsd;vxrange;vxwavg;vxwsd;vymin;vymax;vyavg;vysd;vyrange;vywavg;vywsd;vmin;vmax;vavg;vsd;vrange;vwavg;vwsd;vdmin;vdmax;vdavg;vdsd;vdrange;vdwavg;vdwsd;vddmin;vddmax;vddavg;vddsd;vddrange;vddwavg;vddwsd;thmin;thmax;thavg;thsd;thrange;thwavg;thwsd;wmin;wmax;wavg;wsd;wrange;wwavg;wwsd;cmin;cmax;cavg;csd;crange;cwavg;cwsd;cdmin;cdmax;cdavg;cdsd;cdrange;cdwavg;cdwsd;csmin;csmax;csavg;cssd;csrange;cswavg;cswsd
+cut_low;x;;x;x;;x;;x;;x;x;;x;;;;;;;;;x;x;x;x;x;x;x;x;x;x;x;x;x;x;;;o;;;o;;;;;;;;;;;;;;;;o;o;x;;;;;;;;;;;
+cut_high;;x;x;x;x;x;x;;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;;o;o;o;o;o;o;;x;x;x;x;x;x;;;x;o;;x;o;x;o;x;x;99;x;x;x;99;x;x;99;x;x
+log;o;;;o;o;;o;o;;;o;o;;o;;o;o;o;o;o;o;x;x;x;x;x;x;x;x;x;x;x;x;x;x;;;;;;;;;;;;;;;;;;;;;;;;;;;;;log;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;o;optional;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;x;yes;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;no;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;log;use standard log;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
